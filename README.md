@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="300">
-    <img src="https://hermes.digitalinnovation.one/courses/badge/982268ba-c206-44ee-bbe6-d9d923be0646.png" width="120">
+    <img src="dotnet.png" width="120">
 </div>
 <h1 align="center">Desenvolvimento de aplicações com .NET</h1>
 
