@@ -7,7 +7,7 @@
 <p align="justify">Aprenda a sobre o Entity Framework, como criar aplicativos web ASP .NET API e ASP .NET MVC. Você também vai criar testes na aplicação e um projeto com Unit Tests.</p>
 
 <div align="center">
-    <img src="">
+    <img src="site-mvc.gif">
 </div>
 
 
