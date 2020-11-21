@@ -14402,8 +14402,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Estudos\\decola-dev-avanade-21\\dio-desenvolvimento-dotnet\\CursoMVC\\CursoMVC\\Views\\Produtos\\Delete.cshtml",
+      "TargetPath": "Views\\Produtos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Estudos\\decola-dev-avanade-21\\dio-desenvolvimento-dotnet\\CursoMVC\\CursoMVC\\Views\\Categorias\\Delete.cshtml",
       "TargetPath": "Views\\Categorias\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Estudos\\decola-dev-avanade-21\\dio-desenvolvimento-dotnet\\CursoMVC\\CursoMVC\\Views\\Produtos\\Edit.cshtml",
+      "TargetPath": "Views\\Produtos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Estudos\\decola-dev-avanade-21\\dio-desenvolvimento-dotnet\\CursoMVC\\CursoMVC\\Views\\Produtos\\Create.cshtml",
+      "TargetPath": "Views\\Produtos\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14434,6 +14449,16 @@
     {
       "FilePath": "c:\\Estudos\\decola-dev-avanade-21\\dio-desenvolvimento-dotnet\\CursoMVC\\CursoMVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Estudos\\decola-dev-avanade-21\\dio-desenvolvimento-dotnet\\CursoMVC\\CursoMVC\\Views\\Produtos\\Index.cshtml",
+      "TargetPath": "Views\\Produtos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Estudos\\decola-dev-avanade-21\\dio-desenvolvimento-dotnet\\CursoMVC\\CursoMVC\\Views\\Produtos\\Details.cshtml",
+      "TargetPath": "Views\\Produtos\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

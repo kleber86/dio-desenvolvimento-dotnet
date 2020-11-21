@@ -23,7 +23,7 @@
     Razer: é uma view engine.
     Middlewares: são componentes que é executado em todas as solicitações na aplicação.
     Startup: Responsável pelo ponto inicial do projeto e configurações.
- - [ ] Desenvolvimendo a aplicação
+ - [x] Desenvolvimendo a aplicação
     > Usando o Visual Studio 2019 e configurando uma aplicação ASP.NET CORE 3.
     Foi preciso instalar o Dblocal para dar continuidade ao curso.
  - [ ] Organizando a descrição
