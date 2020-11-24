@@ -26,13 +26,28 @@
  - [x] Desenvolvimendo a aplicação
     > Usando o Visual Studio 2019 e configurando uma aplicação ASP.NET CORE 3.
     Foi preciso instalar o Dblocal para dar continuidade ao curso.
- - [ ] Organizando a descrição
- - [ ] Aplicando novas categorioas no projeto
+ - [x] Organizando a descrição
+    > Alteração das ViewsData para mostrar o nome da categoria.
+ - [x] Aplicando novas categorias no projeto
+    > Alteração das informações nas views. Implementando Data Annotations
 
 ##### Criando e testado uma aplicação ASP.NET API e publicando na Cloud
-
+ - [x] Aprendendo o conceito básico de API
+    > O que é API: O que é REST? O que é Swagger?
+ - [x] Criando um app web ASP .NET MVC - Passo 1
+    > Criando uma API com Visual Studio. Instalação e configuração do Swagger. Vincular a Aplicação com a API. Criando o controller da Categoria e Produto.
+ - [x] Criando um app web ASP .NET MVC - Passo 2
+    > Não consegui implementar o Moq. Apresentou o sequinte erro:
+    ~~~
+    System.NotSupportedException : Unsupported expression: m => m.Categorias
+    Non-overridable members (here: Context.get_Categorias) may not be used in setup / verification expressions.
+    ~~~
+ - [x] Publicando o projeto em nuvem
+    > Não foi implementado o projeto na Azure.
 ### :computer: Tecnologias
 
  - C#
  - .NET Core 3.1
  - Entity Framework
+ - Dblocal
+ - Visual Studio
